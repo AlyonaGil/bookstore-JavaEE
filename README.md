@@ -1,7 +1,7 @@
 Пример из книги Гонсалвес Энтони "Изучаем Java EE"
 ===
 Схема со всеми классами, необходимыми для запуска и точки внедрения: 
-![]()
+![](https://github.com/AlyonaGil/bookstore-JavaEE/blob/master/src/main/jpg/img.png?raw=true)
 
 * Компонент **BookService** имеет метод для создания Java-объектов 
   **Book**;
